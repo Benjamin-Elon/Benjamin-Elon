@@ -18,3 +18,6 @@ I look forward to collaboration and producing some wonderful creations.
 
 
 #### I am also one-hundred percent hirable. So hire me ya mofos!
+
+
+Zero five eight - four two three - three one and a 77.
