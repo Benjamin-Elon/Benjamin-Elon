@@ -17,4 +17,4 @@ I am also on this other useful site:
 I look forward to collaboration and producing some wonderful creations.
 
 
-#### I am one-hundred percent hirable. So hire me ya mofos!
+#### I am also one-hundred percent hirable. So hire me ya mofos!
