@@ -1,7 +1,5 @@
 ### Hi there.
 
-#### I am one-hundred percent hirable. So hire me ya mofos!
-
 Here is some information about me:
 
 I am a self-motivated student learning from home. I try not to actually learn at my home because it's healthy to get out, and I have other better places to be. 
@@ -19,4 +17,4 @@ I am also on this other useful site:
 I look forward to collaboration and producing some wonderful creations.
 
 
-
+#### I am one-hundred percent hirable. So hire me ya mofos!
