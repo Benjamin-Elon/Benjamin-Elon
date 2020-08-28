@@ -1,6 +1,6 @@
-### Hi there.
+#### Hi there.
 
-#### Here is some information about me:
+##### Here is some information about me:
 
 My name is Benny.
 
