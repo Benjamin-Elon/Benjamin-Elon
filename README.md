@@ -1,6 +1,6 @@
-## Hi there.
+### Hi there.
 
-# Here is some information about me:
+#### Here is some information about me:
 
 My name is Benny.
 
@@ -17,7 +17,7 @@ I'm always welcome to feedback, and I value poeples' input. When criticized, I l
 
 I look forward to collaboration and producing some wonderful creations!
 
-# How you can help collaborate: 
+#### How you can help collaborate: 
 -I have a lot to learn, and I guarantee my code has noob moments. If you are reading my code and know a better way to implement something, leave a comment with an explanation of what to change. I'd appreciate it because you don't know what you don't know. 
 -If you know of a project that would appreciate help, hit me up.
 
