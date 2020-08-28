@@ -18,8 +18,10 @@ I look forward to collaboration and producing some wonderful creations!
 
 ##### How you can help collaborate:
 
--I have a lot to learn, and I guarantee my code has noob moments. If you are reading my code and know a better way to implement something, leave a comment with an explanation of what to change. I'd appreciate it because you don't know what you don't know. -If you know of a project that would appreciate help, hit me up.
+-I have a lot to learn, and I guarantee my code has noob moments. If you are reading my code and know a better way to implement something, leave a comment with an explanation of what to change. I'd appreciate it because you don't know what you don't know. 
+-If you know of a project that would appreciate help, hit me up.
 
+\n\n
 I am also on this other site:
 
 [Linkedin](https://www.linkedin.com/in/benjamin-elon-b484031b4/)
