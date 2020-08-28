@@ -24,7 +24,7 @@ I am also on this other site:
 
 [Linkedin](https://www.linkedin.com/in/benjamin-elon-b484031b4/)
 
-###### and I am also one-hundred percent hirable. So hire me ya mofos! Or for some slave-type internship-thing. It's not all about the money; an experience has it's fair share of value.
+#### and I am also one-hundred percent hirable. So hire me ya mofos! Or for some slave-type internship-thing. It's not all about the money; an experience has it's fair share of value.
 
 Zero five two - seven five four - four eight three zeero.
 
