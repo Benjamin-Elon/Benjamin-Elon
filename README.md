@@ -23,7 +23,10 @@ I gained an absurd laundry list of skills while working on this project...
 8) Countless bultin functions (zip, enumerate, map, et al)
 9) A lot about good coding practices and style
 10) Datetime (worked dates a lot)
-11) so much more.
+11) Version control
+12) so much more.
+
+1200) Linux (windows OS died, but I always keep a backup. Important trait when working with databases)
 
 
 The other project allows anyone to read foreign news natively in their own language (and much more). This one is cool... I call it One World News.
