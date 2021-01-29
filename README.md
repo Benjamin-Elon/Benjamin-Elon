@@ -6,11 +6,11 @@ My name is Benny.
 
 I program using Python and Sqlite, and perform data anaysis primarily using Pandas and Seaborn. Additionally, I have directly managed website content using HTML and CSS.
 
-My primary interest was originally in machine learning. As time progressed, I began to realise that Machine learning is just one of the many methodologies for understanding information. 
+My primary interest was originally in machine learning. As time progressed, I began to realise that Machine learning is just one of the many methodologies for interpereting information. 
 
 I am working on two projects of my own invention.
 
-The first project is a powerful program for Israeli rental analysis. 
+The first project is a powerful tool for Israeli rental analysis. 
 I gained a laundry list of skills while working on this project... 
 
 1) Realtional sql
