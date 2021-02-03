@@ -11,7 +11,7 @@ My primary interest was initially in machine learning. As time progressed, I beg
 I am working on two projects of my own invention.
 
 The first project is a tool for visualizing the Israeli rental market. Existing data and charts are...vague and sad. I want the public to be able to understand the layout of the rental market for any area or areas by any metric they so desire.
-I gained a laundry list of skills while working on this project...
+I gained a laundry list of skills while working on the project...
 
 1) Realtional sql
 2) Headless browser automation
@@ -35,7 +35,7 @@ I'm always welcome to feedback. I value poeples' input.
 
 ##### How you can help:
 
--I have a lot to learn, and I guarantee my code has noob moments. If you are reading my code (which isn't public at the moment, so I gues not) and know a better implementation, let me know. I'd appreciate the help because you don't know what you don't know. 
+-I have a lot to learn. If you are reading my code (which isn't public at the moment, so I gues not) and know a better implementation, let me know. I'd appreciate the help because you don't know what you don't know. 
 
 
 I am also on this other site:
