@@ -41,7 +41,7 @@ I'm always welcome to feedback. I value poeples' input.
 I am also on this other site:
 
 [Linkedin](www.linkedin.com/in/benjamin-elon-is-now-part-of-a-truly-professional-network)
-
+<a href="www.linkedin.com/in/benjamin-elon-is-now-part-of-a-truly-professional-network" title="Linkedin">Linkedin</a>
 #### and I am also one-hundred percent hirable. So hire me ya mofos!
 
 Zero five two - seven five four - four eight three zero.
