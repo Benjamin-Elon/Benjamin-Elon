@@ -1,6 +1,6 @@
 ##### Hi there.
 
-#### Here is some information about me:
+### Here is some information about me:
 
 Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
