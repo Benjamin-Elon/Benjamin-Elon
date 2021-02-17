@@ -6,12 +6,12 @@ Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
 I was initially interested in statistics and machine learning. As time progressed, I began to expand by my knowledge of methodologies to interpret information.
 
-#### Language Skills
+### Language Skills
 **Python** and **Sqlite** for web scraping, machine learning, data management
 **Pandas** and **Seaborn** for data analysis
 **HTML** and **CSS** for managing website content
 
-#### Projects that demonstrate my skills
+### Projects that demonstrate my skills
 I am working on two projects of my own invention.
 
 **The first project is a tool for visualizing the Israeli rental market.** Existing data and charts are...vague and sad. I want the public to be able to understand the layout of the rental market for any region of the country by real estate metrics such as median and range of price per neighborhood, average arnona (real estate tax), …. These plots showing ….. are one example.
