@@ -4,7 +4,7 @@
 
 Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
-I was initially interested in statistics and machine learning. As time progressed, I began to expand by my knowledge of methodologies to interpret information.
+I was initially interested in statistics and machine learning. As time progressed, I began to expand by my knowledge of methodologies to interpret information. The field is vast.
 
 ### Language Skills
 **Python** and **Sqlite** for web scraping, machine learning, data management
