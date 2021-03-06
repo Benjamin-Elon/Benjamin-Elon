@@ -14,11 +14,18 @@ I was initially interested in statistics and machine learning. As time progresse
 ### Projects that demonstrate my skills
 I am working on two projects of my own invention.
 
-**The first project is a tool for visualizing the Israeli rental market.** Existing data and charts are...vague and sad. I want the public to be able to understand the layout of the rental market for any region of the country by real estate metrics such as median and range of price per neighborhood, average arnona (real estate tax), …. These plots showing ….. are some examples.
-![alt text](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price.jpg?raw=true)
+**The first project is a tool for visualizing the Israeli rental market.** Existing data and charts are...vague and sad. I want the public to be able to understand the layout of the rental market for any region of the country by real estate metrics such as median and range of price per neighborhood, average arnona (real estate tax), and many more. Here are a few examples.
+![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
+
+![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price.jpg?raw=true)
+![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_sqmt.jpg?raw=true)
+![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price_sqmt.jpg?raw=true)
+
+![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
 
 **The second project allows a person to search for and read foreign-language news sources in the searcher’s own language.** Users can set profiles using simple and complex search queries. I have included several features ensuring users find what they are looking for (ordinarily nearly impossible to accomplish without assistance from a native speaker). I call it One World News.
+
 While developing these unique projects my skillset blossomed:
     1. Relational sql
     2. Headless browser automation
