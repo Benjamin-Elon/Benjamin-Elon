@@ -11,10 +11,11 @@ I was initially interested in statistics and machine learning. As time progresse
 **Pandas** and **Seaborn** for data analysis
 **HTML** and **CSS** for managing website content
 
-### Projects that demonstrate my skills
-I am working on two projects of my own invention.
+**I am working on two projects of my own invention.
 
-**The first project is a tool for visualizing the Israeli rental market.** Existing data and charts are...vague and sad. I want the public to be able to understand the layout of the rental market for any region of the country by real estate metrics such as median and range of price per neighborhood, average arnona (real estate tax), and many more. Here are a few examples.
+**The first project is a tool for visualizing the Israeli rental market.** Currently available information on the rental market is at best, vague - usually nonexistent. The project goal is to provide access to a greater understanding of the rental market. While not yet a fully featured program, users are able to generate visuals for any region of the country using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
+
+Here are a few simple examples.
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price.jpg?raw=true)
@@ -24,10 +25,10 @@ I am working on two projects of my own invention.
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
 
-**The second project allows a person to search for and read foreign-language news sources in the searcher’s own language.** Users can set profiles using simple and complex search queries. I have included several features ensuring users find what they are looking for (ordinarily nearly impossible to accomplish without assistance from a native speaker). I call it One World News.
+**The second project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for. Ordinarily quite difficult to achieve without assistance from a native speaker. I call it One World News.
 
 While developing these unique projects my skillset blossomed:
-    1. Relational sql
+    1. Relational SQL
     2. Headless browser automation
     3. Curl requests (a lesser known, often superior approach to scraping)
     4. Built myself a cookie spoofer to get past Amazon captchas 
