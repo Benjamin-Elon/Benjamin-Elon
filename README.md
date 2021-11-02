@@ -42,8 +42,4 @@ While developing these unique projects my skillset blossomed:
     12. So much more.
 
 **How you can help:**
--I will always have a lot to learn. If you find the idea of these projects interesting and would like to contribute, Give me a call.
-
-Zero five two - seven five four - four eight three zero.
-
-peace
+-I will always have a lot to learn. If you find the idea of these projects interesting, feel free to contribute by adding or improving features.
