@@ -13,7 +13,9 @@ I was initially interested in statistics and machine learning. As time progresse
 
 **I am working on two projects of my own invention.
 
-**The first project is a tool for visualizing the Israeli rental market.** Currently available information on the rental market is at best, vague - usually nonexistent. The project goal is to provide access to a greater understanding of the rental market. While not yet a fully featured program, users are able to generate visuals for any region of the country using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
+**The first project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for, even without knowing the phrasing of the foreign language. Ordinarily quite difficult to achieve without assistance from a native speaker. I call it One World News.
+
+**The second project is a tool for visualizing the Israeli rental market.** Currently available information on the rental market is at best, vague - usually nonexistent. The project goal is to provide access to a greater understanding of the rental market. While not yet a fully featured program, users are able to generate visuals for any region of the country using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
 
 Here are a few simple examples.
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
@@ -24,8 +26,6 @@ Here are a few simple examples.
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
-
-**The second project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for. Ordinarily quite difficult to achieve without assistance from a native speaker. I call it One World News.
 
 While developing these unique projects my skillset blossomed:
     1. Relational SQL
