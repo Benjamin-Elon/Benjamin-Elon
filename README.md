@@ -42,8 +42,8 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
-**The third and newest project is a novel type of monolithic dome structure.** <br>
--This repository contains a wide range of scripts to calculate various aspects of the project.
+**The third and newest project is a novel type of monolithic dome construction methodology.** <br>
+-This repository contains a wide range of scripts to assist in calculating and compreheding various deisgn aspects of this project.
 
 **Skills gained while developing these unique projects:** <br>
     1. Relational SQL. <br>
