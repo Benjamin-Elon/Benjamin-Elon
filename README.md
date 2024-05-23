@@ -6,11 +6,11 @@ Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
 I was initially interested in programming using statistics and machine learning. Programming is a wonderful tool and possiblities are vast. I needed become a programmer.
 
-Then, I found my passion and decided to pursue it instead of a regular programming job at some company.
+Then, I found my passion and decided to use programming to aid in pursuing it.
 
 Now, I program to build useful tools to help myself move towards new knowledge and understanding.
 
-### Language Skills<br>
+### Language Skills <br>
 **Python** and **Sqlite** for web scraping, machine learning, data management<br>
 **Pandas** and **Seaborn** for data analysis<br>
 **HTML** and **CSS** for managing website content
@@ -24,7 +24,7 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 [ Website structure is out of date ]<br>
 **The second project is a tool for intuitively visualizing the Israeli rental market.** Openly available information on the Israeli rental market is at best, vague - usually nonexistent. Power tools for apartment seekers are acutally non-existent. Apartment seekers are forced to make subjective decisions about price and other factors. The project goal is to provide access to a greater understanding of the rental market and to provide a tool that makes finding an apartment in Israel easy and objective. While there are several features to be added, this is a fully featured program. Users are able to generate visuals for any combination of regions, citys, and roads for any of the country, using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
 
-**Other Features:**
+**Other Features:** <br>
 -Display data as Histograms, RidgePlots, Linear Regression Plots, or Scatter plots<br>
 -Automatic, statistical listings filters (duplicates, pricing errors, etc)<br>
 -30 standard parameters ( price, vaad bayit, sqmt, etc. )<br>
@@ -33,7 +33,7 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 -Custom Search profiles<br>
 -Semi Automated apartment listings scraper<br>
 
-**Here are a few basic examples:**
+**Here are a few basic examples:** <br>
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price.jpg?raw=true)<br>
@@ -42,10 +42,10 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
-**The third and newest project is a novel type of monolithic dome structure.**
+**The third and newest project is a novel type of monolithic dome structure.** <br>
 -This repository contains a wide range of scripts to calculate various aspects of the project.
 
-**Skills gained while developing these unique projects:**
+**Skills gained while developing these unique projects:** <br>
     1. Relational SQL.<br>
     2. Headless browser automation.<br>
     3. Curl requests.<br>
