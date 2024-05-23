@@ -15,7 +15,7 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 **Pandas** and **Seaborn** for data analysis<br>
 **HTML** and **CSS** for managing website content
 
-**Ihere are two projects of my own creation:**
+**Here are several projects of my own creation:**
 
 [ API's are out of date ]<br>
 **The first project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for, even without knowing the phrasing in the foreign language. This type of language barrier is ordinarily difficult to overcome to overcome without assistance from a native speaker. I call it One World News.
