@@ -10,9 +10,9 @@ Then, I found my passion and decided to pursue it instead of a regular programmi
 
 Now, I program to build useful tools to help myself move towards new knowledge and understanding.
 
-### Language Skills
-**Python** and **Sqlite** for web scraping, machine learning, data management
-**Pandas** and **Seaborn** for data analysis
+### Language Skills<br>
+**Python** and **Sqlite** for web scraping, machine learning, data management<br>
+**Pandas** and **Seaborn** for data analysis<br>
 **HTML** and **CSS** for managing website content
 
 **Ihere are two projects of my own creation:**
@@ -45,20 +45,20 @@ Here are a few basic examples:
 **The third and newest project is a novel type of monolithic dome structure. **
 -This repository contains a wide range of scripts to calculate various aspects of the project.
 
-**Skills gained while developing these unique projects:**
-    1. Relational SQL.
-    2. Headless browser automation.
-    3. Curl requests.
-    4. Built myself a cookie spoofer to get past Amazon captchas. ( no longer works )
-    5. Pandas and data manipulation.
-    6. Seaborn/Joypy ( matplotlib ), plotting, facegrids, subplots.
-    7. Countless built-in functions ( zip, enumerate, map, etc. ).
-    8. Learned to deal with date-times.
-    9. Optimizaton priorities.
-    10. The importance of good coding practices and style.
-    11. The importance of Version Control.
-    12. The importance of backups. 
+**Skills gained while developing these unique projects:**<br>
+    1. Relational SQL.<br>
+    2. Headless browser automation.<br>
+    3. Curl requests.<br>
+    4. Built myself a cookie spoofer to get past Amazon captchas. ( no longer functional )<br>
+    5. Pandas and data manipulation.<br>
+    6. Seaborn/Joypy ( matplotlib ), plotting, facegrids, subplots.<br>
+    7. Countless built-in functions ( zip, enumerate, map, etc. ).<br>
+    8. Learned to deal with date-times.<br>
+    9. Optimizaton priorities.<br>
+    10. The importance of good coding practices and style.<br>
+    11. The importance of Version Control.<br>
+    12. The importance of backups. <br>
     13. And much more.
 
-**How you can contribute to the revival of these projects:**
+**How you can contribute to the revival of these projects:**<br>
 - Get in contact with me and we can collaborate.
