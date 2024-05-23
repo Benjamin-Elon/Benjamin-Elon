@@ -17,11 +17,11 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 
 **Ihere are two projects of my own creation:**
 
-[ news and translate API's are not updated. ]<br>
+[ API's are out of date ]<br>
 **The first project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for, even without knowing the phrasing in the foreign language. This type of language barrier is ordinarily difficult to overcome to overcome without assistance from a native speaker. I call it One World News.
 
 
-[ Website structure is not updated. ]<br>
+[ Website structure is out of date ]<br>
 **The second project is a tool for visualizing the Israeli rental market.** Openly available information on the Israeli rental market is at best, vague - usually nonexistent. Power tools for apartment seekers are acutally non-existent. Apartment seekers are forced to make subjective decisions about price and other factors. The project goal is to provide access to a greater understanding of the rental market and to provide a tool that makes finding an apartment in Israel easy and objective. While there are several features to be added, this is a fully featured program. Users are able to generate visuals for any combination of regions, citys, and roads for any of the country, using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
 
 Other Features:
