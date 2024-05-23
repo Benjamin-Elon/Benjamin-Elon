@@ -22,9 +22,9 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 
 
 [ Website structure is out of date ]<br>
-**The second project is a tool for visualizing the Israeli rental market.** Openly available information on the Israeli rental market is at best, vague - usually nonexistent. Power tools for apartment seekers are acutally non-existent. Apartment seekers are forced to make subjective decisions about price and other factors. The project goal is to provide access to a greater understanding of the rental market and to provide a tool that makes finding an apartment in Israel easy and objective. While there are several features to be added, this is a fully featured program. Users are able to generate visuals for any combination of regions, citys, and roads for any of the country, using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
+**The second project is a tool for intuitively visualizing the Israeli rental market.** Openly available information on the Israeli rental market is at best, vague - usually nonexistent. Power tools for apartment seekers are acutally non-existent. Apartment seekers are forced to make subjective decisions about price and other factors. The project goal is to provide access to a greater understanding of the rental market and to provide a tool that makes finding an apartment in Israel easy and objective. While there are several features to be added, this is a fully featured program. Users are able to generate visuals for any combination of regions, citys, and roads for any of the country, using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
 
-Other Features:
+**Other Features:**
 -Display data as Histograms, RidgePlots, Linear Regression Plots, or Scatter plots<br>
 -Automatic, statistical listings filters (duplicates, pricing errors, etc)<br>
 -30 standard parameters ( price, vaad bayit, sqmt, etc. )<br>
@@ -33,7 +33,7 @@ Other Features:
 -Custom Search profiles<br>
 -Semi Automated apartment listings scraper<br>
 
-Here are a few basic examples:
+**Here are a few basic examples:**
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/netanya_price.jpg?raw=true)<br>
@@ -42,10 +42,10 @@ Here are a few basic examples:
 
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/karayot_price.jpg?raw=true)
 
-**The third and newest project is a novel type of monolithic dome structure. **
+**The third and newest project is a novel type of monolithic dome structure.**
 -This repository contains a wide range of scripts to calculate various aspects of the project.
 
-**Skills gained while developing these unique projects:**<br>
+**Skills gained while developing these unique projects:**
     1. Relational SQL.<br>
     2. Headless browser automation.<br>
     3. Curl requests.<br>
@@ -60,5 +60,5 @@ Here are a few basic examples:
     12. The importance of backups. <br>
     13. And much more.
 
-**How you can contribute to the revival of these projects:**<br>
+**How you can contribute to the revival of these projects:**
 - Get in contact with me and we can collaborate.
