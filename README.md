@@ -17,7 +17,7 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 
 **Ihere are two projects of my own creation:**
 
-[ news and translate API's are not updated. ]
+[ news and translate API's are not updated. ]/n
 **The first project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. I have included several features ensuring users can easily find what they are looking for, even without knowing the phrasing in the foreign language. This type of language barrier is ordinarily difficult to overcome to overcome without assistance from a native speaker. I call it One World News.
 
 [ No pics. Lost all the screenshots because I hadn't learned yet the importance of version control and backups. Program needs updating somewhere over the rainbow. ]
