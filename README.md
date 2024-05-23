@@ -46,17 +46,18 @@ Now, I program to build useful tools to help myself move towards new knowledge a
 -This repository contains a wide range of scripts to calculate various aspects of the project.
 
 **Skills gained while developing these unique projects:** <br>
-    1. Relational SQL.<br>
+    1. Relational SQL. <br>
     2. Headless browser automation.<br>
-    3. Curl requests.<br>
-    4. Built myself a cookie spoofer to get past Amazon captchas. ( no longer functional )<br>
+    3. Curl requests. <br>
+    4. Systems diagramming <br>
+    4. Built myself a cookie spoofer to get past Amazon captchas. <br>
     5. Pandas and data manipulation.<br>
-    6. Seaborn/Joypy ( matplotlib ), plotting, facegrids, subplots.<br>
-    7. Countless built-in functions ( zip, enumerate, map, etc. ).<br>
-    8. Learned to deal with date-times.<br>
-    9. Optimizaton priorities.<br>
-    10. The importance of good coding practices and style.<br>
-    11. The importance of Version Control.<br>
+    6. Seaborn/Joypy, plotting, facegrids, subplots. <br>
+    7. Countless built-in functions ( zip, enumerate, map, etc. ). <br>
+    8. Date-times. <br>
+    9. Optimizaton priorities. <br>
+    10. The importance of good coding practices and style. <br>
+    11. The importance of Version Control. <br>
     12. The importance of backups. <br>
     13. And much more.
 
