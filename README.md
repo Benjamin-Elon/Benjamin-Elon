@@ -4,11 +4,11 @@
 
 Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
-I was initially interested in programming for statistical analysis and machine learning. Programming is a wonderful tool and possiblities are vast. I needed become a programmer.
+I needed become a programmer to make money.
 
-Then, I found my passion and decided to use programming to pursue meaningful things.
+Then, I found my passion and decided to pursue more meaningful things.
 
-Now, I program to build useful tools to help myself move towards new knowledge and understanding.
+Now, I program to build useful tools, moving towards new knowledge and understanding, advancing projects of interest.
 
 ### Language Skills <br>
 **Python** and **Sqlite** for web scraping, machine learning, data management<br>
