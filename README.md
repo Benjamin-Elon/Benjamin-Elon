@@ -8,7 +8,7 @@ I needed become a programmer to make money.
 
 Then, I found my passion and decided to pursue more meaningful things.
 
-Now, I program to build useful tools, moving towards new knowledge and understanding, advancing projects of interest.
+Now, I use programming to build useful tools, moving towards new knowledge and understanding, advancing projects of interest.
 
 ### Language Skills <br>
 **Python** and **Sqlite** for web scraping, machine learning, data management<br>
