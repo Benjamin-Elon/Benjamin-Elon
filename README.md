@@ -4,9 +4,9 @@
 
 Benjamin Elon from Atlanta, Georgia. Permanently residing in Israel, since 2011.
 
-I was initially interested in programming using statistics and machine learning. Programming is a wonderful tool and possiblities are vast. I needed become a programmer.
+I was initially interested in programming for statistical analysis and machine learning. Programming is a wonderful tool and possiblities are vast. I needed become a programmer.
 
-Then, I found my passion and decided to use programming to aid in pursuing it.
+Then, I found my passion and decided to use programming to pursue meaningful things.
 
 Now, I program to build useful tools to help myself move towards new knowledge and understanding.
 
