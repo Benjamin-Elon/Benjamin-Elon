@@ -17,12 +17,11 @@ Now, I use programming to build useful tools, moving towards new knowledge and u
 
 **Here are several projects of my own creation:**
 
-[ API's are out of date ]<br>
 **The first project is a world-wide news tracker. It streamlines the process searching for and reading foreign-language news sources.** Users are able to create personalized news feeds using simple and complex search queries. It includes several features ensuring users can easily find what they are looking for, even without knowing the phrasing in the foreign language. These language barriers are ordinarily very difficult to overcome to overcome without assistance from a native speaker.
+[ API's are out of date ]
 
-
-[ Website structure is out of date ]<br>
 **The second project is an anlyitical tool for intuitively visualizing and comprehending the Israeli rental market.** Openly available information on the Israeli rental market is at best, vague - usually nonexistent. Power tools for apartment seekers are acutally non-existent. Apartment seekers are forced to make subjective decisions about price and other factors. The project goal is to provide access to a greater understanding of the rental market and to provide a tool that makes finding an apartment in Israel easy and objective. While there are several features to be added, this is a fully featured program. Users are able to generate visuals for any combination of regions, citys, and roads for any of the country, using more than 30 normal and composite parameters. Upcoming versions will include geoplotting as well. 
+[ Website structure is out of date ]
 
 **Other Features:** <br>
 -Display data as Histograms, RidgePlots, Linear Regression Plots, or Scatter plots<br>
@@ -31,7 +30,7 @@ Now, I use programming to build useful tools, moving towards new knowledge and u
 -Countless composite parameters ( price/sqmt, days_on_market/price, etc. )<br>
 -Custom Listing filters ( for search feed and market analysis )<br>
 -Custom Search profiles<br>
--Semi Automated apartment listings scraper<br>
+-Semi Automated, detection resistant apartment listings scraper<br>
 
 **Here are a few basic examples:** <br>
 ![](https://github.com/Benjamin-Elon/reator_advantage_pics/blob/main/areas_price.jpg?raw=true)
