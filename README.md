@@ -49,7 +49,6 @@ Now, I use programming to build useful tools, moving towards new knowledge and u
     2. Headless browser automation.<br>
     3. Curl requests. <br>
     4. Systems diagramming <br>
-    4. Built myself a cookie spoofer to get past Amazon captchas. <br>
     5. Pandas and data manipulation.<br>
     6. Seaborn/Joypy, plotting, facegrids, subplots. <br>
     7. Countless built-in functions ( zip, enumerate, map, etc. ). <br>
